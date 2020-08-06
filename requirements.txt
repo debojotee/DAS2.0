@@ -1,0 +1,12 @@
+django
+gunicorn
+django-heroku
+nltk
+numpy 
+sklearn
+eel
+pyttsx3
+Wikipedia-API
+flask
+opencv-python
+Pillow==2.1.0
